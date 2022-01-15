@@ -1,0 +1,20 @@
+.ColorFactory-header {
+    background-color: #262626;
+    color: white;
+    height: 150px;
+    padding: 20px;
+}
+
+.ColorFactory-header a {
+    color: white;
+    font-size: 27px;
+}
+
+.ColorFactory-list {
+    margin-top: 20px;
+}
+
+.ColorFactory-list li {
+    padding: 3px;
+    list-style: none;
+}
